@@ -1,0 +1,8 @@
+{
+  "request": [
+    "skrep supawork.ai",
+    "group-intro",
+    "setwelcome"
+  ],
+  "error": []
+}
