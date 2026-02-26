@@ -75,10 +75,10 @@ Bot WhatsApp Multi-Device berbasis Node.js dengan sistem plugin modular, diranca
 
 # ⚙️ Instalasi
 
-git clone https://github.com/CxzDeveloper/Whatsapp-Bot-MD
+``git clone https://github.com/CxzDeveloper/Whatsapp-Bot-MD
 cd yourbot
 npm install
-npm start
+npm start``
 
 ---
 
@@ -86,10 +86,11 @@ npm start
 
 Edit file config:
 
-owner: ["628xxxx"],
+``owner: ["628xxxx"],
 botName: "WhatsAppBotMD",
 sessionName: "session",
 prefix: ".",
+``
 
 Masukkan API key yang dibutuhkan pada file ".env" atau config.
 
@@ -97,6 +98,7 @@ Masukkan API key yang dibutuhkan pada file ".env" atau config.
 
 # 🧩 Struktur Plugin
 
+``
 plugins/
  ├── downloader/
  ├── ai/
@@ -104,6 +106,7 @@ plugins/
  ├── tools/
  ├── owner/
  └── menu/
+ ``
 
 Bot otomatis membaca semua file plugin tanpa perlu register manual.
 
