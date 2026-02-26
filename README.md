@@ -1,10 +1,10 @@
-🤖 WhatsApp Bot MD
+# 🤖 WhatsApp Bot MD
 
 Bot WhatsApp Multi-Device berbasis Node.js dengan sistem plugin modular, dirancang untuk kebutuhan otomatisasi, utilitas, dan fitur lengkap mulai dari downloader hingga AI.
 
 ---
 
-✨ Fitur Utama
+# ✨ Fitur Utama
 
 👑 Owner
 
@@ -73,16 +73,16 @@ Bot WhatsApp Multi-Device berbasis Node.js dengan sistem plugin modular, diranca
 
 ---
 
-⚙️ Instalasi
+# ⚙️ Instalasi
 
-git clone https://github.com/username/yourbot.git
+git clone https://github.com/CxzDeveloper/Whatsapp-Bot-MD
 cd yourbot
 npm install
 npm start
 
 ---
 
-📦 Konfigurasi
+# 📦 Konfigurasi
 
 Edit file config:
 
@@ -95,7 +95,7 @@ Masukkan API key yang dibutuhkan pada file ".env" atau config.
 
 ---
 
-🧩 Struktur Plugin
+# 🧩 Struktur Plugin
 
 plugins/
  ├── downloader/
@@ -109,7 +109,7 @@ Bot otomatis membaca semua file plugin tanpa perlu register manual.
 
 ---
 
-🚀 Jalankan Bot
+# 🚀 Jalankan Bot
 
 node index.js
 
@@ -117,7 +117,7 @@ Scan QR lalu bot siap digunakan.
 
 ---
 
-🛡️ Note
+# 🛡️ Note
 
 - Gunakan bot dengan bijak
 - Jangan spam API
@@ -125,7 +125,7 @@ Scan QR lalu bot siap digunakan.
 
 ---
 
-👨‍💻 Credit
+# 👨‍💻 Credit
 
 - Base by Developer
 - Library Baileys MD
@@ -133,6 +133,6 @@ Scan QR lalu bot siap digunakan.
 
 ---
 
-📄 License
+# 📄 License
 
 Free to use & modify for learning purposes.
